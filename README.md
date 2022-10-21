@@ -2,4 +2,4 @@
 A tool to help in annotation of relevant papers to read during Literature Review for research.
 
 
-![A snapshot of the UI](snapshot.png "A snapshot of the UI")
+![UI Screenshot](https://user-images.githubusercontent.com/9779035/197180169-9de57127-2f7c-4f68-bec1-892f6489ba0b.PNG)
