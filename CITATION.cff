@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: REPETER
+message: >-
+  A tool to help in annotation of relevant papers to
+  read during Literature Review for research.
+type: software
+authors:
+  - given-names: Veeresh
+    family-names: Elango
+    email: veeresh.elango@scania.com
+    affiliation: Scania CV AB
+    orcid: 'https://orcid.org/0000-0003-1390-8803'
